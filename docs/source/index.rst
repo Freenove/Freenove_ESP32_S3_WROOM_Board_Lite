@@ -2,7 +2,7 @@
 FNK0099
 ######################################################
 
-Freenove Super Starter Kit for ESP32 S3
+Freenove ESP32 S3 WROOM Board Lite
 ******************************************************
 
 Download
